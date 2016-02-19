@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Automotive Mechanics",
+    "teaching_score": 0.024203821656050957,
+    "identifier": "005053914-0",
+    "author": "Crouse, William Harry, 1907",
+    "id": "46688",
+    "type": "text",
+    "overall_count": 19,
+    "filtered_count": 2.0,
+    "overall_rank": 38055,
+    "date": "1956]",
+    "journal": null
+  },
+  {
+    "title": "The Awakening",
+    "teaching_score": 0.9337579617834395,
+    "identifier": "000844672-5",
+    "author": "Chopin, Kate, 1850-1904",
+    "id": "1455944",
+    "type": "text",
+    "overall_count": 1293,
+    "filtered_count": 1.0,
+    "overall_rank": 54,
+    "date": "C1976",
+    "journal": null
+  },
+  {
+    "title": "Mechanics: 167",
+    "teaching_score": 0.0012738853503184713,
+    "identifier": "10.2307/2970535",
+    "author": "Crawley, Edwin S.",
+    "id": "11744248",
+    "type": "text",
+    "overall_count": 1,
+    "filtered_count": 1.0,
+    "overall_rank": 512226,
+    "date": "1904-03-01",
+    "journal": "The American Mathematical Monthly"
+  }
+]
