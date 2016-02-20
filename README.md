@@ -1,8 +1,6 @@
 
 # OSP Ranking Data
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-
 This repository contains JSON dumps of the ranking results that are displayed in the [Open Syllabus Explorer](http://explorer.opensyllabusproject.org/) web application, to a maximum depth of 10,000 results.
 
 The results for each of the individual fields, institutions, and states are broken out into a separate file. For example, this file:
@@ -12,6 +10,8 @@ The results for each of the individual fields, institutions, and states are brok
 Is a JSON dump of the top 10k results that get displayed if you go to the website and select "English" from the "Field" dropdown. The overall, un-filtered results are also included:
 
 [`ranks/overall.json`](https://github.com/davidmcclure/osp-ranking-data/blob/master/ranks/overall.json)
+
+If you make use of this data, please be sure to cite the [Open Syllabus Project](http://opensyllabusproject.org).
 
 ## Schema
 
@@ -50,3 +50,7 @@ In the data files, each text looks like this:
 - **`overall_rank`**: The text's ranking order in the overall (unfiltered) results.
 
 - **`id`**: The database id for the text. This is used to form the URLs for the text profile pages on the site. Eg, `1305566` for [The Elements of Style](http://explorer.opensyllabusproject.org/text/1305566).
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
