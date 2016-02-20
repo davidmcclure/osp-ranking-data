@@ -11,7 +11,7 @@ Is a JSON dump of the top 10k results that get displayed if you go to the websit
 
 [`ranks/overall.json`](https://github.com/davidmcclure/osp-ranking-data/blob/master/ranks/overall.json)
 
-If you make use of this data, please be sure to cite the [Open Syllabus Project](http://opensyllabusproject.org).
+If you make use of this data, please cite the [Open Syllabus Project](http://opensyllabusproject.org).
 
 ## Schema
 
@@ -41,7 +41,7 @@ In the data files, each text looks like this:
 
 - **`journal`**: If the text is an article, the journal that the article was published in. Since most of the matches come from the Harvard Library Cloud collection (mostly monographs), this is usually empty.
 
-- **`identifier`**: A unique identifier for the text. For the Harvard records, these are the "control numbers" from the original MARC records. For JSTOR records, the JSTOR id.
+- **`identifier`**: A canonical identifier for the text. For the Harvard records, these are the "control numbers" from the original MARC records. For JSTOR records, the JSTOR id.
 
 - **`date`**: A non-machine-readable date value, pulled directly from the MARC records.
 
