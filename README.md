@@ -57,7 +57,7 @@ These rankings represent a fairly accurate snapshot of texts assigned _in the co
 
 We're working on expanding the corpus in a couple of ways - we're planning to scrape more documents from the web, and we're also hoping to partner with universities to get access to archived collections of syllabi that aren't posted online. For the time being, though, it's important to note that this data is pulled from one particular subset of syllabi, and can't yet be considered a comprehensive authority on text assignment trends. (We're hoping to get there eventually.)
 
-This is especially true for the filter categories that have a relatively small total number of citations. For example, we only extracted about 1,600 individual text assignments from syllabi assigned in Wyoming, a tiny fraction of the ~300k assignments from syllabi in Texas. This means that the Wyoming results aren't very meaningful yet, since we just have a tiny (and almost certainly unrepresentative) sample. Generally speaking - the larger the numbers, the more valid it becomes to make high-level generalizations about the results.
+This is especially true for the filter categories that have a relatively small total number of citations. For example, we only extracted about 1,600 individual text assignments from syllabi assigned in Wyoming, a tiny fraction of the ~300k from Texas. This means that the Wyoming results aren't very meaningful yet, since we just have a tiny (and almost certainly unrepresentative) sample. Generally speaking - the larger the numbers, the more valid it becomes to make high-level generalizations about the results.
 
 ---
 
