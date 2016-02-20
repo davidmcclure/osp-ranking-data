@@ -53,7 +53,7 @@ In the data files, each text looks like this:
 
 ## Caveats
 
-These rankings represent a fairly accurate snapshot of texts assigned _in the corpus of 1.4M syllabi that we currently have_. But, of course - this is far from being a complete sample of all the syllabi out there in the world! What's more, the OSP corpus is what statisticians would call a "[convenience sample](https://en.wikipedia.org/wiki/Accidental_sampling)" - for the time being, we're only able to access syllabi that have been posted on public websites, which, for various reasons, might not be representative of all syllabi.
+These rankings represent a fairly accurate snapshot of texts assigned _in the corpus of syllabi that we currently have_. But, of course - this is far from being a complete sample of all the syllabi out there in the world! What's more, the OSP corpus is what statisticians would call a "[convenience sample](https://en.wikipedia.org/wiki/Accidental_sampling)" - for the time being, we're only able to access syllabi that have been posted on public websites, which, for various reasons, might not be representative of all syllabi.
 
 We're working on expanding the corpus in a couple of ways - we're planning to scrape more documents from the web, and we're also hoping to partner with universities to get access to archived collections of syllabi that aren't posted online. For the time being, though, it's important to note that this data is pulled from one particular subset of syllabi, and can't yet be considered a comprehensive authority on text assignment trends. (We're hoping to get there eventually.)
 
