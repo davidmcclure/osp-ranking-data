@@ -1,6 +1,8 @@
 
 # OSP Ranking Data
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
 This repository contains JSON dumps of the ranking results that are displayed in the [Open Syllabus Explorer](http://explorer.opensyllabusproject.org/) web application, to a maximum depth of 10,000 results.
 
 The results for each of the individual fields, institutions, and states are broken out into a separate file. For example, this file:
